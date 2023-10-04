@@ -1,2 +1,5 @@
 user_uuid="64b1ee4c-3f2c-4383-8403-998c6fada24c"
 bucket_name="birchtree-terraform"
+
+index_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/index.html"
+error_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/error.html"
