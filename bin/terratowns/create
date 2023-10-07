@@ -34,4 +34,4 @@ if echo "$HEADERS" | grep -qi "Content-Type: application/json"; then
     echo "$BODY" | jq .
 else
     echo "$BODY"
-fi
+fivv
