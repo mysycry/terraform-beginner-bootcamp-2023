@@ -5,10 +5,7 @@ provider "local.providers/local/terratowns" {
   version     = "1.0.0"
   constraints = "1.0.0"
   hashes = [
-<<<<<<< HEAD
-    "h1:IESxcpz4fp4RjCl63aM+GKv0HGMSvEtdBoYIy+kbi+0=",
-=======
-    "h1:9b56vf+H/2RfBOn76CeEd0NXUpYlZSR4SBrRbD3d1Ss=",
+    "h1:di5Sv1ua8gzodpKmFbrHNZ6OkrJszevZpd3Bqq1hty4=",
   ]
 }
 
@@ -32,6 +29,5 @@ provider "registry.terraform.io/hashicorp/aws" {
     "zh:a02ecab0f8d68a7f7ed6b2e37a53999d234606e5b8f65f2c3bcfb82826131f00",
     "zh:a9d545217cd339ddfb0b9061a89e82022d727d654bddac294eb0d544a3367fbc",
     "zh:b5a495582adb2c92cff67013c9083f7a08b9295e29af816c541177eb989a20ee",
->>>>>>> main
   ]
 }

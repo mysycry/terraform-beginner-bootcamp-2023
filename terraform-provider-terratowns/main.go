@@ -4,7 +4,6 @@ package main
 
 // fmt is short format, it contains functions for formatted I/O.
 import (
-<<<<<<< HEAD
 	"bytes"
 	"context"
 	"encoding/json"
