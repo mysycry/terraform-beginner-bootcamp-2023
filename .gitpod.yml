@@ -7,6 +7,7 @@ tasks:
       source ./bin/install_terraform_cli
       source ./bin/generate_tfrc_credentials
       cp $PROJECT_ROOT/terraform.tfvars.example $PROJECT_ROOT/terraform.tfvars
+      source ./bin/build_provider
   - name: sinatra
     before: | 
       cd $PROJECT_ROOT
@@ -26,6 +27,7 @@ tasks:
       npm install --global http-server
     command: 
       http-server
+      
 vscode:
   extensions:
     - amazonwebservices.aws-toolkit-vscode
